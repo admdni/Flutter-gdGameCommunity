@@ -4,7 +4,7 @@ import 'package:http/http.dart' as http;
 class ApiService {
   static const String BASE_URL = 'https://api.rawg.io/api';
   static const String API_KEY =
-      '29baf58b6b9d4b7fb3a23ecb55dbc0bb'; // RAWG API anahtarınızı buraya ekleyin
+      'API KEY'; // RAWG API anahtarınızı buraya ekleyin
   static const Duration CACHE_DURATION = Duration(minutes: 5);
 
   final Map<String, CacheItem> _cache = {};
