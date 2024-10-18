@@ -1,13 +1,13 @@
 // utils/constants.dart
 import 'package:flutter/material.dart';
 
-const String API_KEY = 'dc8f5b98ad1a5743f5f0acad974342804416ed23';
+const String API_KEY = 'api';
 const String BASE_URL = 'https://www.giantbomb.com/api';
 const String PEXELS_API_KEY =
-    'k8g38P38WizgZxQtcpRvo1Gh635QqtxETSWrcU5zZ9l2h82S0pN454U2';
+    'api';
 
 const String UNSPLASH_API_KEY =
-    '0LlqmaPhM2j4BeFuTjAE5KabZhTpc1TlgNdAzBJEKEk'; // Unsplash API anahtarınızı buraya ekleyin
+    'api'; // Unsplash API anahtarınızı buraya ekleyin
 
 const List<String> GAMING_CATEGORIES = [
   'gaming',
